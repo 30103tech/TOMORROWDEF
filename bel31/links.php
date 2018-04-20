@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<meta charset="utf-8" lang="ru">
+<html>
+
+<head>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Proj</title>
+	<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
+	<link></link>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="header">
+			<div id="logo">
+				<h1><a href="index.php">NarrowSEC</a></h1>
+			</div>
+			<div id="menu">
+				<ul>
+					<li class="first current_page_item"><a href="index.php">Дом</a></li>
+					<li><a href="info.php">Инфо</a></li>
+					<li><a href="proj.php">Проекты</a></li>
+					<li><a href="links.php">Ссылки</a></li>
+					<li><a href="none">Форум</a></li>
+					<li class="last"><a href="cont.php">Контакты</a></li>
+				</ul>
+				<br class="clearfix" />
+			</div>
+		</div>
+		<div id="page">
+			<div id="content">
+				<div id="post4">
+          <div id="header2">
+					<h2>Ссылки</h2>
+        </div>
+          <h3>Ссылки на сторонние ресурсы, посвященные теме информационной безопасности</h3>
+            <br>
+
+  <ul>
+  <li><a href="https://codeby.net/">CODEBY.NET</a>   — Cправочный ресурс по информационной безопасности сообщества codeby.net.</li>
+  <li><a href="https://www.offensive-security.com/">OFFENCIVE SECURITY</a>   — Сертифицированный проект по этичному взлому, предлагаемый компанией Offensive Security, которая имеет доступ к инструментам тестирования и использованию инструментов, включенных в дистрибутив Kali Linux (преемник BackTrack).</li>
+  <li><a href="https://www.securitylab.ru/">SECURITY LAB</a> — один из известных российских интернет-порталов, посвященных проблемам информационной безопасности. Владельцем является российская фирма Positive Technologies, занимающаяся разработками в области ИБ.</li>
+  <li><a href="https://www.ptsecurity.com/">POSITIVE TECHNOLOGIES</a> — международная компания, специализирующаяся на разработке программного обеспечения в области информационной безопасности. Предоставляет услуги в области анализа защищенности и управления соответствием. </li>
+  <li><a href="https://xakep.ru/">ЖУРНАЛ "ХАКЕР"</a> —ежемесячный компьютерный журнал, посвящённый вопросам информационной безопасности, программирования и администрирования компьютерных сетей. Издаётся медиакомпанией «Gameland» с 1999 года и является одним из самых популярных российских компьютерных журналов с высоким уровнем продаж. </li>
+</ul>
+				</div>
+
+	<div id="footer">
+		Всего хорошего. <a href="https://vk.com/tyvjdsyjvtl" rel="nofollow"> DMNVMN </a>.
+	</div>
+</body>
+
+</html>
